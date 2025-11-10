@@ -1,0 +1,50 @@
+Hypo_L – Left Hypothalamus
+Hypo_R – Right Hypothalamus
+RN_L – Left Red Nucleus
+SN_L – Left Substantia Nigra
+IC_L – Left Inferior Colliculus
+SC_L – Left Superior Colliculus
+ION_L – Left Inferior Olivary Nucleus
+Ve_L – Left Vestibular Nucleus
+mRt_L – Left Medial Reticular Nucleus
+PnO_L – Left Pontis Oralis
+pons – Pons
+RN_R – Right Red Nucleus
+SN_R – Right Substantia Nigra
+IC_R – Right Inferior Colliculus
+SC_R – Right Superior Colliculus
+ION_R – Right Inferior Olivary Nucleus
+Ve_R – Right Vestibular Nucleus
+mRt_R – Right Medial Reticular Nucleus
+PnO_R – Right Pontis Oralis
+Cbm_Left_I_IV – Left Cerebellum Lobules I–IV
+Cbm_Left_V – Left Cerebellum Lobule V
+Cbm_Left_VI – Left Cerebellum Lobule VI
+Cbm_Left_CrusI – Left Cerebellum Crus I
+Cbm_Left_CrusII – Left Cerebellum Crus II
+Cbm_Left_VIIb – Left Cerebellum Lobule VIIb
+Cbm_Left_VIIIa – Left Cerebellum Lobule VIIIa
+Cbm_Left_VIIIb – Left Cerebellum Lobule VIIIb
+Cbm_Left_IX – Left Cerebellum Lobule IX
+Cbm_Left_X – Left Cerebellum Lobule X
+Left_Dentate – Left Dentate Nucleus
+Left_Interposed – Left Interposed Nucleus
+Left_Fastigial – Left Fastigial Nucleus
+Cbm_Vermis_VI – Cerebellar Vermis Lobule VI
+Cbm_Vermis_VII – Cerebellar Vermis Lobule VII
+Cbm_Vermis_VIII – Cerebellar Vermis Lobule VIII
+Cbm_Vermis_IX – Cerebellar Vermis Lobule IX
+Cbm_Vermis_X – Cerebellar Vermis Lobule X
+Right_Dentate – Right Dentate Nucleus
+Right_Interposed – Right Interposed Nucleus
+Right_Fastigial – Right Fastigial Nucleus
+Cbm_Right_I_IV – Right Cerebellum Lobules I–IV
+Cbm_Right_V – Right Cerebellum Lobule V
+Cbm_Right_VI – Right Cerebellum Lobule VI
+Cbm_Right_CrusI – Right Cerebellum Crus I
+Cbm_Right_CrusII – Right Cerebellum Crus II
+Cbm_Right_VIIb – Right Cerebellum Lobule VIIb
+Cbm_Right_VIIIa – Right Cerebellum Lobule VIIIa
+Cbm_Right_VIIIb – Right Cerebellum Lobule VIIIb
+Cbm_Right_IX – Right Cerebellum Lobule IX
+Cbm_Right_X – Right Cerebellum Lobule X
